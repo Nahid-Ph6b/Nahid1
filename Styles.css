@@ -1,0 +1,16 @@
+Body{font-family: 'Josefin Sans', sans-serif;
+margin: 0%;}
+h1{color: crimson;
+font-size:60px ;}
+.Color-Blue{color:blue}
+section{display: flex;
+margin-inline-end:100px ;}
+.half-width1{width:40%;
+padding: 10px 60px}
+.half-width{width:65% ;}
+.LinkButton{width: 40%;
+text-decoration: none;
+background-color: rgb(230, 143, 44);
+font-weight: 700;
+padding:2%;
+border-radius:5px ;}
